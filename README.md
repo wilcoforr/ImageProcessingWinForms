@@ -33,7 +33,7 @@ http://adaptiveart.eecs.umich.edu/2011/wp-content/uploads/2011/09/The-pocket-han
 
 
 ## Some Example Images 
-![Example Image Here](https://gitlab.com/wilcoforr/ImageProcessing/raw/master/ExampleImages/example-1.png)
+![Example Image Here](https://raw.githubusercontent.com/wilcoforr/ImageProcessingWinForms/main/ExampleImages/example-1.png)
 
-![Example Image Here](https://gitlab.com/wilcoforr/ImageProcessing/raw/master/ExampleImages/example-2.png)
+![Example Image Here](https://raw.githubusercontent.com/wilcoforr/ImageProcessingWinForms/main/ExampleImages/example-2.png)
 
